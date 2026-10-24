@@ -1,4 +1,47 @@
 {
+        "Money Guy": {
+        "Type": "Farm",
+        "Image": "rbxassetid://130651310096962",
+        "Rarity": "Mythic",
+        "PlacePrice": 1000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "NoEnemyAttack": true,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 4,
+                "Farm": 250
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 4,
+                "Farm": 450
+            },
+            {
+                "Price": 1000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 4,
+                "Farm": 650
+            },
+            {
+                "Price": 3200,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 4,
+                "Farm": 1500
+            }
+        ]
+    },
     "Withered Shadow Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://74004565694888",
