@@ -1,0 +1,40 @@
+{
+    "Withered Shadow Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://74004565694888",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 20,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 25000,
+                "Range": 14,
+                "Damage": 24,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 16,
+                "Damage": 30,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 50000,
+                "Range": 18,
+                "Damage": 36,
+                "Cooldown": 0.05
+            }
+        ]
+    }
+}
