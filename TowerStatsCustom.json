@@ -1,4 +1,83 @@
 {
+            "Ignited Toy Freddy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://139756498404458",
+        "Rarity": "Epic",
+        "PlacePrice": 1000,
+        "Offset": 0.5,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 1.4
+            },
+            {
+                "Price": 3000,
+                "Range": 17,
+                "Damage": 700,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 4000,
+                "Range": 20,
+                "Damage": 800,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 5000,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1.2
+            }
+        ]
+    },
+            "Ignited Toy Bonnie": {
+        "Type": "Splash",
+        "Image": "rbxassetid://78060085599203",
+        "Rarity": "Rare",
+        "PlacePrice": 250,
+        "Offset": 0.5,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 2
+            },
+            {
+                "Price": 600,
+                "Range": 20,
+                "Damage": 350,
+                "Cooldown": 2
+            },
+            {
+                "Price": 800,
+                "Range": 22,
+                "Damage": 500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 900,
+                "Range": 25,
+                "Damage": 600,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+
         "Money Guy": {
         "Type": "Farm",
         "Image": "rbxassetid://130651310096962",
