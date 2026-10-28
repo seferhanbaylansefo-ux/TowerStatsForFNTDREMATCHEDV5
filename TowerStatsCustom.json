@@ -1,4 +1,106 @@
 {
+                "Win Freddy": {
+        "Type": "Pierce Spread + Slow",
+        "Image": "rbxassetid://100681198138232",
+        "Rarity": "Apex",
+        "PlacePrice": 30000,
+        "Offset": 0.65,
+        "Max": 1,
+        "Passive": {"Name": "Wins", "Description": "All enemies in range get slowed by 65%. Attacks apply 0.4s of True Stun."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 45000,
+                "Cooldown": 2,
+                "Slow": 0.35,
+                "SlowTime": 4,
+                "TrueStun": 0.4
+            },
+            {
+                "Price": 50000,
+                "Range": 34,
+                "Damage": 51000,
+                "Cooldown": 1.8,
+                "Slow": 0.35,
+                "SlowTime": 4,
+                "TrueStun": 0.4
+            },
+            {
+                "Price": 60000,
+                "Range": 37,
+                "Damage": 57000,
+                "Cooldown": 1.7,
+                "Slow": 0.35,
+                "SlowTime": 4,
+                "TrueStun": 0.4
+            },
+            {
+                "Price": 75000,
+                "Range": 40,
+                "Damage": 63000,
+                "Cooldown": 1.5,
+                "Slow": 0.35,
+                "SlowTime": 4,
+                "TrueStun": 0.4
+            }
+        ]
+    },
+
+            "Glory Of The Times Toy Freddy": {
+        "Type": "Pierce Slow + Passive",
+        "Image": "rbxassetid://135348931168274",
+        "Rarity": "Secret",
+        "PlacePrice": 400,
+        "Offset": 0.25,
+        "Max": 3,
+        "Passive": {"Name": "Times", "Description": "Enemies hit by attacks are slowed by 40%."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 1.2,
+                "Slow": 0.60,
+                "SlowTime": 1
+            },
+            {
+                "Price": 500,
+                "Range": 22,
+                "Damage": 500,
+                "Cooldown": 1.1,
+                "Slow": 0.60,
+                "SlowTime": 1
+            },
+            {
+                "Price": 600,
+                "Range": 24,
+                "Damage": 600,
+                "Cooldown": 1,
+                "Slow": 0.60,
+                "SlowTime": 1
+            },
+            {
+                "Price": 800,
+                "Range": 25,
+                "Damage": 700,
+                "Cooldown": 1,
+                "Slow": 0.60,
+                "SlowTime": 1
+            }
+        ]
+    },
+
             "Ignited Toy Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://139756498404458",
